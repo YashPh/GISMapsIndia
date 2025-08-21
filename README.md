@@ -1,8 +1,8 @@
 # GISMapsIndia
-An open-source repository of GeoJSON & Shapefiles providing multiple types of political maps of India and the world. This dataset ensures all international and domestic boundaries are depicted as recognized by the Government of India. A reliable resource for developers, researchers and cartographers.
+An open-source repository of GeoJSON and Shapefiles providing multiple types of political maps of India and the world. This dataset ensures all international and domestic boundaries are depicted as recognized by the Government of India. A reliable resource for developers, researchers and cartographers.
 
 ## About The Project
-Many global map datasets do not align with the official cartographic standards of India. This project was created to provide a reliable and accessible source of geospatial data that accurately reflects the boundaries recognized by the Government of India. The base layers for these maps are derived from the public domain Natural Earth dataset and have been modified to align with these standards.
+Many global map datasets do not align with the official cartographic standards of India. This project was created to provide a reliable and accessible source of geospatial data that accurately reflects the boundaries recognized by the Government of India. The base layers for these maps are derived from the public domain [Natural Earth](https://www.naturalearthdata.com/) dataset and have been modified to align with these standards.
 
 This repository provides multiple types of political maps for both India and the world:
 
