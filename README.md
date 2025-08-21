@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="GISMapsIndia_Logo.svg" alt="GISMapsIndia_Logo" width="75">
+</p>
+
 # GISMapsIndia
 An open-source repository of GeoJSON and Shapefiles providing multiple types of political maps of India and the world. This dataset ensures all international and domestic boundaries are depicted as recognized by the Government of India. A reliable resource for developers, researchers and cartographers.
 
@@ -28,7 +32,7 @@ The files are ready to be used in most GIS software and web mapping libraries:
 + **Data Science:** GeoPandas in Python
 
 ## License
-Distributed under the MIT License. See LICENSE.txt for more information. You are free to use, modify and distribute the data, provided you include the original copyright and license notice.
+Distributed under the MIT License. Check the [LICENSE](https://github.com/YashPh/GISMapsIndia/blob/main/LICENSE) for more information. You are free to use, modify and distribute the data, provided you include the original copyright and license notice.
 
 ## Disclaimer
 This dataset is provided for informational, cartographic and academic purposes. While significant effort has been made to ensure its accuracy, the data is provided "as is" without any warranty, express or implied. The maintainers of this repository do not guarantee the completeness or correctness of the data and are not liable for any damages or loss resulting from its use. Users are solely responsible for ensuring that their use of this data complies with all relevant laws and regulations.
