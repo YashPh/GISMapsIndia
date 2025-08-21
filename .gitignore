@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+*.log
+*.csv
+*.zip
+*.lock
+venv/
+/venv/
+__pycache__/
+*.pyc
