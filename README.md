@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="GISMapsIndia_Logo.svg" alt="GISMapsIndia_Logo" width="75">
+  <img src="assets/GISMapsIndia_Logo.svg" alt="GISMapsIndia_Logo" width="100">
 </p>
 
 # GISMapsIndia
